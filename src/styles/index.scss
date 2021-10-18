@@ -1,3 +1,14 @@
 /* 
     General Styles
 */
+
+.hidden{
+    display: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&family=Share+Tech+Mono&display=swap');
+
+*{
+    font-family: 'Nova Square', cursive;
+font-family: 'Share Tech Mono', monospace;
+}
